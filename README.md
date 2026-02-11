@@ -70,6 +70,12 @@ If you’d like to connect or view more of my work:
 - **LinkedIn:** *(Add link)*  
 - **GitHub Portfolio:** *(Add link)*  
 
+## 📈 Tableau Dashboard  
+Explore the interactive dashboard that visualizes rider behavior, usage patterns, and key insights from the Cyclistic dataset.
+
+👉 **View the Dashboard on Tableau Public:**  
+https://public.tableau.com/app/profile/michael.jordan2824/vizzes
+
 ---
 
 This repository is designed to be clean, professional, and easy for hiring managers to navigate.  
